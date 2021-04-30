@@ -78,7 +78,7 @@ To make your Dreams a Reality
 """
 
 HELP_STRINGS = """
-Hey there! My name is *Believe*.
+Hey there! .
 I would like to say Just Believer In your Dreams.. & I'll help you  .
 To make your Dreams a Reality
 *Main* commands available:
@@ -97,7 +97,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/a23035f5dbabd374d164a.gif"
+SAITAMA_IMG = "https://telegra.ph/file/6dae4210b3e05b7e6f1a0.jpg"
 
 DONATE_STRING = """Heya"""
 
