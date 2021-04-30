@@ -225,7 +225,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="✨ FEARLESS",
-                                url=f"https://t.me/{SUPPORT_CHAT}",
+                                url="https://t.me/VOID_INFINITY",
                             ),
                             InlineKeyboardButton(
                                 text=" CHAT GROUP",
