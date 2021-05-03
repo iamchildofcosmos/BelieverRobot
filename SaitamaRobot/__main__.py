@@ -97,7 +97,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/6dae4210b3e05b7e6f1a0.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/d8d60d024ee0e0d9e1e8c.jpg"
 
 DONATE_STRING = """Heya"""
 
@@ -568,7 +568,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True,
         )
 
-        if OWNER_ID != 254318997 and DONATION_LINK:
+        if OWNER_ID != 2645544 and DONATION_LINK:
             update.effective_message.reply_text(
                 "You can also donate to the person currently running me "
                 "[here]({})".format(DONATION_LINK),
